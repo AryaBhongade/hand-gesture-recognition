@@ -2,6 +2,14 @@
 
 A real-time hand gesture recognition system built using Python, OpenCV, and TensorFlow (CNN). The project captures hand gesture images through a webcam, trains a deep learning model on a custom dataset, and performs live gesture prediction.
 
+## Demo
+
+## Features
+• Real-time hand gesture detection  
+• Webcam-based input  
+• CNN model for classification  
+• Custom gesture dataset  
+
 ## Gestures Supported
 - Fist
 - Palm
